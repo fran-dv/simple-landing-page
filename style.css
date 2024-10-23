@@ -1,0 +1,54 @@
+
+body {
+    font-family: Roboto;
+    margin: 0;
+}
+
+
+li a {
+    text-decoration: none;
+}
+
+.header ul a,
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+.hero,
+.header {
+    background-color: #1F2937;
+    display: flex;
+    padding: 0 250px;
+}
+
+.header img {
+    width: 150px;
+    height: auto;
+}
+
+.header a {
+    margin-right: auto;
+}
+
+.header ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+}
+
+
+.hero {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.hero img {
+    width: 400px;
+    height: auto;
+}
