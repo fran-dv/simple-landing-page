@@ -9,3 +9,5 @@ Original design to replicate:
 <img src="./images/Odin&apos;s landing page design.png" width=500 height=auto>
 
 The page is not responsive and lacks real functionality. The object of this project was to practice using Flexbox and other CSS concepts covered in the previous lessons of The Odin Project curriculum.
+
+You can view the live page [here](https://fran-dv.github.io/simple-landing-page/).
