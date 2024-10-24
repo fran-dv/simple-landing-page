@@ -6,6 +6,6 @@ This project is part of the Foundations section of The Odin Project curriculum. 
 
 Original design to replicate:
 
-![img](<images/Odin's landing page design.png>)
+<img src="./images/Odin&apos;s landing page design.png" width=500 height=auto>
 
 The page is not responsive and lacks real functionality. The object of this project was to practice using Flexbox and other CSS concepts covered in the previous lessons of The Odin Project curriculum.
